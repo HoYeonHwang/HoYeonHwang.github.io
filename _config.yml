@@ -1,7 +1,7 @@
 title: 성장하는 개발자, 호돌이
 subtitle: 호돌이 since 2020.12
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  성장하는 개발자, 호돌이
 
 url: "https://hoyeonhwang.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -28,58 +28,51 @@ author_logo: hoyeon.png
 author: HoYeon Hwang
 author_bio: Hi, my name HoYeon Hwang :D
 author_email: "hoyun7443@naver.com"
-author_location: Korea
+author_location: South Korea
 author_website_url: "https://hoyeonhwang.github.io/"
 typewrite-text: We live in a twilight world.
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
-              visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: true
-
+            #- company_name: Google
+            #  company_logo: google.png
+            #  company_url: https://google.com
+            #  designation: Software Engineer
+            #  description: Worked on various Google Products
+            #  visibility: true
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
+              - college_logo: SSAFY_logo.png
+                college_name: 삼성 청년SW 아카데미
+                college_url: https://ssafy.com
+                college_degree: student
                 description: Bachelor of Technology
                 visibility: true
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: SPRING_logo.png
+                project_title: 스프링 기반 웹 기초
+                project_description: 스프링프레임워크를 기반으로하여 웹의 기초를 공부하고 있고 VUE와 REACT등을 공부하고 있습니다.
+                project_url: https://spring.io/
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: ALGO_logo.png
+                project_title: 알고리즘
+                project_description: 다양한 알고리즘 기법을 차근차근 해결해 나가며 학습하고 있습니다.
+                project_url: https://www.acmicpc.net/user/hoyun7443
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: hoyun7443
+github_username:  HoYeonHwang
+facebook_username: hoyun7443
+linkedin_username: null
+behance_username: null
+instagram_username: hoyun7443
+medium_username: null
+telegram_username: null
+dribbble_username: null
+flickr_username: null
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
@@ -87,13 +80,13 @@ flickr_username: johndoe
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: hoyun7443
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+mailchimp_form_url: https://
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: hoyun7443@naver.com
 
 # syntax highlighter
 markdown: kramdown
