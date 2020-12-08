@@ -26,11 +26,11 @@ urls:
 
 author_logo: hoyeon.jpg
 author: HoYeon Hwang
-author_bio: Hi, my name HoYeon Hwang :D
+author_bio: 안녕하세요~! 개발자 호돌이입니다.🐯 :D
 author_email: "hoyun7443@naver.com"
 author_location: South Korea
 author_website_url: "https://hoyeonhwang.github.io/"
-typewrite-text: We live in a twilight world.
+typewrite-text: 기초부터 천천히 개발하는 힘을 기르자!
 
 # Experiences
 author_work_experiences:
@@ -94,7 +94,7 @@ highlighter: rouge
 permalink: pretty
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
+show_author_work_experiences: false
 show_author_education_details: true
 show_author_project_details: true
 
